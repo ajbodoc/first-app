@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+.container img {
+    width: 50%;
+    max-width: 600px; /* Ajusta el ancho máximo de la imagen según tus necesidades */
+    margin-left: 20px;
+}
+
+.container .listing-description {
+    width: 45%;
+    max-width: 400px; /* Ajusta el ancho máximo del texto según tus necesidades */
+}
+
+
+
